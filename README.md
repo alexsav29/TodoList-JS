@@ -16,32 +16,32 @@
     ![Done Todo](readme/Done_todo.jpg)
 - Удаление конкретной задачи (кнопка "Удалить" под каждой задачей. Возможность удалить задачу появляется только после того как она помечена при помощи checkbox как Выполненная)
 
-    ![Done Todo](readme/Delete_todo.jpg)
+    ![Delete todo](readme/Delete_todo.jpg)
 - Редактирование конкретной задачи (кнопка "Редактировать" под каждой задачей)
 
-    ![Done Todo](readme/Edit_todo.jpg)
+    ![Edit todo](readme/Edit_todo.jpg)
 
     После нажатия на кнопку "Редактировать" на месте текста задачи появляется поле ввода с возможнотью редактирования текста задачи.
 
     По завершению редактирования можно отменить (кнопка "Отмена")
 
-    ![Done Todo](readme/Cancel_edit.jpg)
+    ![Cancel edit](readme/Cancel_edit.jpg)
 
     или сохранить (кнопка "Сохранить") внесённые изменения.
 
-    ![Done Todo](readme/Save_edit.jpg)
+    ![Save edit](readme/Save_edit.jpg)
 
 - Очистка всего списка дел (кнопка "Очистить список дел")
 
-    ![Done Todo](readme/Clear_all_todo.jpg)
+    ![Clear all todo](readme/Clear_all_todo.jpg)
 
 - Пометить все задачи как выполненные (кнопка "Все дела выполнены". При этом checkbox на всех задачах станут выделенными)
 
-    ![Done Todo](readme/All_todo_done.jpg)
+    ![All todo done](readme/All_todo_done.jpg)
 
 - Пометить все задачи как невыполненные (кнопка "Все дела НЕ выполнены". Выделение на всех checkbox пропадёт)
 
-    ![Done Todo](readme/All_todo_not_done.jpg)
+    ![All todo not done](readme/All_todo_not_done.jpg)
 
 
 
